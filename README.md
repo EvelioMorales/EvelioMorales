@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evelio! </h1>
 
-<h2>👨‍💻 Cloud Engineer and Cybersecurity Analist Projects:</h2>
+<h2>👨‍💻 Cloud Engineer and Cybersecurity Analyst Projects:</h2>
 
 - Active Directory Home Lab
 
