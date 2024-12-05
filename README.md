@@ -5,3 +5,4 @@
 - [AWS Cloud Security IAM](https://github.com/EvelioMorales/AWS-Cloud-Security-IAM/blob/main/README.md)
 - [Terraform-Azure Development Environment](https://github.com/EvelioMorales/Terraform-Dev-environment-Azure/blob/main/README.md)
 - [Host a website on S3](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/legendary-aws-host-a-website-on-s3.pdf)
+- [Image Label Generator With AWS Rekognition](https://github.com/EvelioMorales/Image-Label-Generator/blob/main/README.md)
