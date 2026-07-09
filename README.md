@@ -201,7 +201,7 @@ I am currently focused on roles such as:
 
 - GitHub: [github.com/EvelioMorales](https://github.com/EvelioMorales)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/evelio-morales-jr101)
-- Portfolio Website: [www.portfolio-ev.com](www.portfolio-ev.com)
+- Portfolio Website: www.portfolio-ev.com
 
 ---
 
