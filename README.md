@@ -1,211 +1,335 @@
-<h1>Hi, I'm Evelio Morales Jr. 👋</h1>
+# Hi, I'm Evelio Morales Jr. 👋
 
-<h2>Cloud | IT Support | Cybersecurity | Infrastructure as Code</h2>
+## Cloud | Cybersecurity | IT Support | Infrastructure as Code
 
-<p>
-I am a bilingual IT and cloud security professional based in Houston, Texas, focused on building hands-on projects in AWS, Azure, Terraform, IAM security, networking, CI/CD, and secure cloud infrastructure.
-</p>
+I am a bilingual IT and cloud professional based in Houston, Texas. I build hands-on projects focused on AWS, Microsoft Azure, cybersecurity, Terraform, networking, identity and access management, vulnerability management, threat hunting, and technical support.
 
-<p>
-My goal is to grow into a Cloud Engineer, Cloud Security Engineer, or SOC/IT Support role where I can apply troubleshooting, customer support, cloud infrastructure, and security skills in real-world environments.
-</p>
+My goal is to grow into a Cloud Engineer, Cloud Security Engineer, SOC Analyst, or IT Support role where I can apply troubleshooting, customer service, cloud infrastructure, and cybersecurity skills in real-world environments.
 
 ---
 
-## 👨‍💻 Featured Cloud Projects
+## 🔐 Cybersecurity Projects
 
-### 🔐 AWS IAM Security & EC2 Environment Segmentation Project
-[View Project](https://github.com/EvelioMorales/AWS-Cloud-Security-IAM/blob/main/README.md)
+I am passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. My current areas of focus include vulnerability management, automated remediation, threat hunting, security operations, and incident investigation.
 
-This project demonstrates how to use AWS IAM policies, EC2 tags, and least-privilege access controls to separate production and development environments.
+### ⚠️ Vulnerability Management Program Implementation — In Progress
+
+This project demonstrates the implementation of a complete vulnerability management program, including asset discovery, vulnerability scanning, risk prioritization, remediation tracking, rescanning, and reporting.
 
 **Skills Demonstrated:**
-- AWS IAM user and policy management
-- Least-privilege access control
-- EC2 environment segmentation
-- Tag-based access restrictions
-- Explicit deny permissions
-- Cloud security testing and validation
-- Documentation of real-world access control scenarios
+
+* Vulnerability scanning
+* Risk-based vulnerability prioritization
+* Remediation planning
+* Remediation tracking
+* Security reporting
+* Vulnerability validation
+* Security operations
+* Continuous improvement
+
+> Repository link will be added after the project is completed.
+
+---
+
+### 🛠️ Programmatic Vulnerability Remediation — In Progress
+
+This project uses PowerShell, Bash, and shell commands to automate the remediation of common operating system vulnerabilities and insecure configurations.
+
+**Skills Demonstrated:**
+
+* PowerShell
+* Bash
+* Windows administration
+* Linux administration
+* Security automation
+* Vulnerability remediation
+* Configuration management
+* Technical documentation
+
+> Repository link will be added after the project is completed.
+
+---
+
+### 🚨 Threat Hunting Scenario: Tor Browser Usage — In Progress
+
+This project demonstrates a threat-hunting investigation involving potentially unauthorized Tor Browser activity. The investigation includes analyzing endpoint and network telemetry, identifying indicators of compromise, and documenting findings.
+
+**Skills Demonstrated:**
+
+* Threat hunting
+* Security event analysis
+* Endpoint telemetry
+* Network telemetry
+* Timeline development
+* Incident investigation
+* Indicators of compromise
+* MITRE ATT&CK concepts
+* Security operations
+
+> Repository link will be added after the project is completed.
+
+---
+
+## ☁️ Featured Cloud and Security Projects
+
+### 🔐 AWS IAM Security and EC2 Environment Segmentation
+
+[View Project](https://github.com/EvelioMorales/AWS-Cloud-Security-IAM/blob/main/README.md)
+
+This project demonstrates how to use AWS IAM policies, EC2 tags, least-privilege permissions, and explicit deny rules to separate production and development environments.
+
+**Skills Demonstrated:**
+
+* AWS Identity and Access Management
+* IAM users and policies
+* Least-privilege access control
+* EC2 environment segmentation
+* Tag-based access control
+* Explicit deny permissions
+* Access testing and validation
+* Cloud security documentation
 
 ---
 
 ### ☁️ Azure Remote Development Environment with Terraform, Docker, and VS Code SSH
+
 [View Project](https://github.com/EvelioMorales/Terraform-Dev-environment-Azure/blob/main/README.md)
 
-This project builds a remote Azure development environment using Terraform, a Linux virtual machine, Docker, and VS Code Remote SSH.
+This project provisions a remote Azure development environment using Terraform, a Linux virtual machine, Docker, SSH key authentication, and Visual Studio Code Remote SSH.
 
 **Skills Demonstrated:**
-- Terraform Infrastructure as Code
-- Azure virtual machine deployment
-- Linux server administration
-- Docker installation and configuration
-- SSH key authentication
-- Network Security Group configuration
-- Remote development with VS Code
-- Cloud resource cleanup and cost awareness
+
+* Microsoft Azure
+* Terraform
+* Infrastructure as Code
+* Azure virtual machines
+* Linux administration
+* Docker
+* SSH authentication
+* Network Security Groups
+* Visual Studio Code Remote SSH
+* Cloud cost management
 
 ---
 
-### 🌐 Hosting a Static Website on Amazon S3
-[View Project](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/README.md)
+### ⚙️ Terraform AWS Multi-AZ VPC Infrastructure
 
-This project demonstrates how to host a static website using Amazon S3 and configure cloud storage for public website access.
+[View Project](https://github.com/EvelioMorales/Terraform-AWS-Proof-of-Concept)
+
+This project automates the deployment of a multi-Availability Zone AWS network using Terraform.
 
 **Skills Demonstrated:**
-- Amazon S3 bucket creation
-- Static website hosting
-- Bucket policy configuration
-- Public access settings
-- HTML/CSS website deployment
-- AWS storage fundamentals
-- Cloud hosting documentation
+
+* Terraform
+* AWS provider configuration
+* Infrastructure as Code
+* Amazon VPC
+* Public and private subnets
+* Route tables
+* Internet gateways
+* Multi-AZ architecture
+* Terraform state management
+* Terraform init, plan, apply, and destroy
+
+---
+
+### 🏗️ AWS Multi-AZ VPC Infrastructure
+
+[View Project](https://github.com/EvelioMorales/AWS-Proof-of-Concept)
+
+This project demonstrates the design of a highly available AWS network using multiple Availability Zones, segmented subnets, routing components, and internet connectivity.
+
+**Skills Demonstrated:**
+
+* Amazon VPC
+* AWS networking
+* Public and private subnets
+* Route tables
+* Internet gateways
+* Availability Zones
+* Network segmentation
+* High-availability architecture
+* Cloud infrastructure planning
 
 ---
 
 ### 🖼️ Image Label Generator with AWS Rekognition
+
 [View Project](https://github.com/EvelioMorales/Image-Label-Generator/blob/main/README.md)
 
-This project uses AWS Rekognition to analyze images and generate labels using cloud-based image recognition services.
+This project uses Amazon Rekognition to analyze images and identify objects, scenes, and visual characteristics.
 
 **Skills Demonstrated:**
-- AWS Rekognition
-- Image analysis
-- Cloud-based machine learning services
-- AWS SDK / service integration concepts
-- S3 image storage concepts
-- API-driven cloud workflow
-- Documentation of AI/cloud service use cases
+
+* Amazon Rekognition
+* Amazon S3
+* Cloud-based machine learning
+* Image analysis
+* AWS service integration
+* API-driven workflows
+* Technical documentation
 
 ---
 
-### 🏗️ AWS Proof of Concept: Multi-AZ VPC Infrastructure
-[View Project](https://github.com/EvelioMorales/AWS-Proof-of-Concept)
+### 🌐 Static Website Hosting on Amazon S3
 
-This project designs a multi-availability-zone AWS network architecture to demonstrate cloud networking, high availability, and infrastructure planning.
+[View Project](https://github.com/EvelioMorales/Static-Website-hosting/blob/main/README.md)
 
-**Skills Demonstrated:**
-- AWS VPC design
-- Public and private subnet planning
-- Multi-AZ architecture
-- Route tables
-- Internet Gateway concepts
-- Cloud networking fundamentals
-- High availability design
-
----
-
-### ⚙️ Terraform AWS Proof of Concept: Multi-AZ VPC Infrastructure
-[View Project](https://github.com/EvelioMorales/Terraform-AWS-Proof-of-Concept)
-
-This project recreates AWS VPC infrastructure using Terraform to demonstrate Infrastructure as Code and repeatable cloud deployments.
+This project demonstrates how to deploy and host a static website using Amazon S3.
 
 **Skills Demonstrated:**
-- Terraform configuration files
-- AWS provider configuration
-- VPC deployment with Infrastructure as Code
-- Subnet and route table automation
-- Repeatable cloud architecture
-- Terraform init, plan, apply, and destroy workflow
-- Infrastructure cleanup and cost control
+
+* Amazon S3
+* Static website hosting
+* Bucket policies
+* Public access configuration
+* HTML
+* CSS
+* Cloud storage
+* Website deployment
+* Troubleshooting and documentation
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Cloud Platforms
-- Amazon Web Services
-- Microsoft Azure
 
-### Infrastructure as Code
-- Terraform
-- GitHub Actions
-- Cloud deployment automation
+* Amazon Web Services
+* Microsoft Azure
+* Amazon EC2
+* Amazon S3
+* Amazon VPC
+* Amazon Rekognition
+* Azure Virtual Machines
+* Azure Network Security Groups
+* Azure Static Web Apps
 
-### Security
-- IAM policies
-- Least-privilege access
-- EC2 access control
-- Tag-based permissions
-- Network Security Groups
-- Cloud security documentation
+### Cybersecurity
+
+* Identity and Access Management
+* Least-privilege access control
+* Vulnerability management
+* Vulnerability remediation
+* Threat hunting
+* Security event analysis
+* Incident investigation
+* Network segmentation
+* Security operations
+* MITRE ATT&CK fundamentals
+* NIST Cybersecurity Framework fundamentals
+
+### Infrastructure and Automation
+
+* Terraform
+* Infrastructure as Code
+* GitHub Actions
+* PowerShell
+* Bash
+* Git
+* GitHub
+* CI/CD fundamentals
+* Cloud deployment automation
 
 ### Networking
-- VPCs
-- Subnets
-- Route tables
-- Internet Gateways
-- DNS basics
-- SSH
-- TCP/IP fundamentals
 
-### Systems and Tools
-- Linux
-- Windows
-- Docker
-- VS Code
-- Git
-- GitHub
-- Command line basics
+* TCP/IP
+* DNS
+* DHCP
+* Virtual Private Clouds
+* Public and private subnets
+* Route tables
+* Internet gateways
+* Security groups
+* Network Security Groups
+* SSH
+* VPN fundamentals
 
-### Support Skills
-- Troubleshooting
-- Documentation
-- Customer service
-- Ticket-style issue tracking
-- Bilingual English/Spanish communication
+### Systems and Support
 
----
-
-## 📌 What My Projects Show
-
-My projects are designed to show that I can:
-
-- Build cloud infrastructure in AWS and Azure
-- Use Terraform to automate deployments
-- Apply basic cloud security best practices
-- Configure IAM permissions and access controls
-- Document technical work clearly
-- Troubleshoot deployment and configuration issues
-- Explain projects in a way that recruiters, hiring managers, and technical teams can understand
+* Windows
+* Linux
+* Docker
+* Visual Studio Code
+* Microsoft 365
+* Active Directory fundamentals
+* Remote technical support
+* Hardware troubleshooting
+* Software troubleshooting
+* Technical documentation
+* Ticket documentation
+* Customer service
+* Bilingual English and Spanish support
 
 ---
 
-## 🎯 Career Focus
+## 🎓 Certifications and Training
 
-I am currently focused on roles such as:
+* CompTIA A+
+* Microsoft Certified: Azure Fundamentals — AZ-900
+* Google Cybersecurity Professional Certificate
+* GRC Mastery
+* SOC Analyst Training — Let'sDefend
+* Terraform hands-on cloud training
 
-- IT Support Specialist
-- Help Desk Technician
-- Cloud Support Associate
-- Junior Cloud Engineer
-- SOC Support Analyst
-- Cloud Security Analyst
-- Infrastructure Support Technician
+### Currently Studying
+
+* Microsoft Azure Administrator — AZ-104
+* Vulnerability management
+* Threat hunting
+* Security operations
+* SIEM workflows
+* Linux administration
+* Cloud security
+* PowerShell automation
+* Bash scripting
 
 ---
 
-## 📚 Currently Improving
+## 💼 Career Focus
 
-- AWS cloud security
-- Azure administration
-- Terraform
-- Linux administration
-- Networking fundamentals
-- SIEM and SOC workflows
-- GitHub portfolio documentation
+I am currently pursuing opportunities such as:
+
+* IT Support Specialist
+* Help Desk Technician
+* Desktop Support Technician
+* Cloud Support Associate
+* Junior Cloud Engineer
+* Junior Cloud Security Analyst
+* SOC Support Analyst
+* Cybersecurity Analyst
+* Infrastructure Support Technician
+
+---
+
+## 📌 What My Projects Demonstrate
+
+My projects demonstrate my ability to:
+
+* Build and configure infrastructure in AWS and Azure
+* Automate cloud deployments using Terraform
+* Apply least-privilege security controls
+* Configure identity and access management policies
+* Design segmented and highly available cloud networks
+* Investigate suspicious activity
+* Analyze security events
+* Develop vulnerability remediation procedures
+* Use scripting to automate security tasks
+* Troubleshoot deployment and configuration issues
+* Control cloud costs by removing unused resources
+* Create clear technical documentation
+* Explain technical concepts to technical and nontechnical audiences
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/EvelioMorales](https://github.com/EvelioMorales)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/evelio-morales-jr101)
-- Portfolio Website: www.portfolio-ev.com
+* **Portfolio:** [portfolio-ev.com](https://www.portfolio-ev.com/)
+* **LinkedIn:** [Evelio Morales Jr.](https://www.linkedin.com/in/evelio-morales-jr101/)
+* **GitHub:** [github.com/EvelioMorales](https://github.com/EvelioMorales)
 
 ---
 
-## 🚀 Goal
+## 🚀 Professional Goal
 
-My goal is to continue building practical cloud and cybersecurity projects that prove my ability to learn quickly, solve problems, document technical work, and support secure cloud environments.
-```
+My goal is to continue building practical cloud and cybersecurity projects that demonstrate my ability to learn quickly, troubleshoot effectively, automate infrastructure, strengthen security controls, and support users in real-world technology environments.
