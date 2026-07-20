@@ -14,7 +14,7 @@ I am passionate about cybersecurity and enjoy tackling complex challenges throug
 
 ### ⚠️ Vulnerability Management Program Implementation 
 
-[View Project]()
+[View Project](https://github.com/EvelioMorales/Vulnerability-Management-Program)
 
 This project demonstrates the implementation of a complete vulnerability management program, including asset discovery, vulnerability scanning, risk prioritization, remediation tracking, rescanning, and reporting.
 
@@ -35,7 +35,7 @@ This project demonstrates the implementation of a complete vulnerability managem
 
 ### 🛠️ Programmatic Vulnerability Remediation — In Progress
 
-[View Project]()
+[View Project](https://github.com/EvelioMorales/Programmatic-Vulnerability-Remediations/tree/main)
 
 This project uses PowerShell, Bash, and shell commands to automate the remediation of common operating system vulnerabilities and insecure configurations.
 
