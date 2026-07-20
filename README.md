@@ -12,7 +12,9 @@ My goal is to grow into a Cloud Engineer, Cloud Security Engineer, SOC Analyst, 
 
 I am passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. My current areas of focus include vulnerability management, automated remediation, threat hunting, security operations, and incident investigation.
 
-### ⚠️ Vulnerability Management Program Implementation — In Progress
+### ⚠️ Vulnerability Management Program Implementation 
+
+[View Project]()
 
 This project demonstrates the implementation of a complete vulnerability management program, including asset discovery, vulnerability scanning, risk prioritization, remediation tracking, rescanning, and reporting.
 
@@ -27,11 +29,13 @@ This project demonstrates the implementation of a complete vulnerability managem
 * Security operations
 * Continuous improvement
 
-> Repository link will be added after the project is completed.
+
 
 ---
 
 ### 🛠️ Programmatic Vulnerability Remediation — In Progress
+
+[View Project]()
 
 This project uses PowerShell, Bash, and shell commands to automate the remediation of common operating system vulnerabilities and insecure configurations.
 
@@ -51,6 +55,8 @@ This project uses PowerShell, Bash, and shell commands to automate the remediati
 ---
 
 ### 🚨 Threat Hunting Scenario: Tor Browser Usage — In Progress
+
+[View Project]()
 
 This project demonstrates a threat-hunting investigation involving potentially unauthorized Tor Browser activity. The investigation includes analyzing endpoint and network telemetry, identifying indicators of compromise, and documenting findings.
 
