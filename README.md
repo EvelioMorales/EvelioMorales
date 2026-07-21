@@ -56,7 +56,7 @@ This project uses PowerShell, Bash, and shell commands to automate the remediati
 
 ### 🚨 Threat Hunting Scenario: Tor Browser Usage — In Progress
 
-[View Project]()
+[View Project](https://github.com/EvelioMorales/Threat-Hunting-Scenario-tor)
 
 This project demonstrates a threat-hunting investigation involving potentially unauthorized Tor Browser activity. The investigation includes analyzing endpoint and network telemetry, identifying indicators of compromise, and documenting findings.
 
